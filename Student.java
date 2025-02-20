@@ -4,8 +4,7 @@ import java.util.Scanner;
 public class Student extends Person {
     private String major;
 
-    public Student() {
-    }
+ 
 
     @Override
     public void inputInfo(Scanner scanner) { //nhap thong tin hoc sinh
