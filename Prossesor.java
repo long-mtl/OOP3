@@ -9,7 +9,7 @@ public class Prossesor {
         int luachon;
 
         do {
-            System.out.println("\n=== MENU ===");
+            System.out.println("LUA CHON");
             System.out.println("1. Add Person"); // nhap 1 de chon 
             System.out.println("2. Edit Person");// nhap 2 de chinh sua thong tin
             System.out.println("3. Delete Person");// nhap 3 de xoa 
