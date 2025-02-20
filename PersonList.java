@@ -13,7 +13,7 @@ public class PersonList {
 
     public void addPerson(Scanner scanner) {  //chọn 1 trong 2
 
-        System.out.println("Choose type: 1. Student | 2. Teacher");
+        System.out.println("Choose type: 1. Student hoac 2. Teacher");
         int choice = Integer.parseInt(scanner.nextLine());
         Person person;
 
