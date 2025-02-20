@@ -5,8 +5,7 @@ import java.util.Scanner;
 public class Teacher extends Person {
     private String department;
 
-    public Teacher() {
-    }
+ 
 
     @Override
     public void inputInfo(Scanner scanner) { //nhap thong tin teacher
